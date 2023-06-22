@@ -1,2 +1,2 @@
-# monty
+MONTY
 stacks, queues, LIFO FIFO
